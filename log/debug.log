@@ -1,0 +1,110 @@
+module 'django.db.models' has no attribute 'User': change password
+module 'django.db.models' has no attribute 'User': change password
+module 'django.db.models' has no attribute 'User': change password
+module 'django.db.models' has no attribute 'User': change password
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: forget password
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: forget password
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: forget password
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: forget password
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: forget password
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: forget password
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: forget password
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: forget password
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: forget password
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: forget password
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: forget password
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: forget password
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: resent otp
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: resent otp
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+module 'django.db.models' has no attribute 'OTPAuth': forget password
+module 'django.db.models' has no attribute 'OTPAuth': forget password
+module 'django.db.models' has no attribute 'OTPAuth': forget password
+module 'django.db.models' has no attribute 'OTPAuth': forget password
+module 'django.db.models' has no attribute 'OTPAuth': forget password
+module 'django.db.models' has no attribute 'OTPAuth': forget password
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+OTPAuth() got unexpected keyword arguments: 'email', 'auth_id': forget password
+OTPAuth() got unexpected keyword arguments: 'email', 'auth_id': forget password
+OTPAuth() got unexpected keyword arguments: 'email', 'auth_id': forget password
+OTPAuth() got unexpected keyword arguments: 'email', 'auth_id': forget password
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: resent otp
+[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond: resent otp
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+[Errno 11001] getaddrinfo failed: resent otp
+[Errno 11001] getaddrinfo failed: resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'QuerySet' object has no attribute 'save': resent otp
+'QuerySet' object has no attribute 'save': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+Cannot resolve keyword 'auth_id' into field. Choices are: created_on, expired_by, id, otp, updated_on, user, user_id: resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+'NoneType' object has no attribute 'otp': resent otp
+Connection unexpectedly closed: resent otp
+Connection unexpectedly closed: resent otp
+Connection unexpectedly closed: resent otp
+Connection unexpectedly closed: resent otp
+NOT NULL constraint failed: hrms_otp_auth.user_id: resent otp
+NOT NULL constraint failed: hrms_otp_auth.user_id: resent otp
+Connection unexpectedly closed: resent otp
+Connection unexpectedly closed: resent otp
+Connection unexpectedly closed: forget password
+Connection unexpectedly closed: forget password
+[Errno 11001] getaddrinfo failed: forget password
+[Errno 11001] getaddrinfo failed: forget password
+[Errno 11001] getaddrinfo failed: forget password
+[Errno 11001] getaddrinfo failed: forget password
+OTPAuth() got unexpected keyword arguments: 'email', 'auth_id': forget password
+OTPAuth() got unexpected keyword arguments: 'email', 'auth_id': forget password
+NOT NULL constraint failed: hrms_otp_auth.user_id: forget password
+NOT NULL constraint failed: hrms_otp_auth.user_id: forget password
+NOT NULL constraint failed: hrms_otp_auth.user_id: forget password
+NOT NULL constraint failed: hrms_otp_auth.user_id: forget password
+UNIQUE constraint failed: hrms_otp_auth.user_id: resent otp
+UNIQUE constraint failed: hrms_otp_auth.user_id: resent otp
+UNIQUE constraint failed: hrms_otp_auth.user_id: forget password
+UNIQUE constraint failed: hrms_otp_auth.user_id: forget password
+OTPAuth() got unexpected keyword arguments: 'auth_id': resent otp
+OTPAuth() got unexpected keyword arguments: 'auth_id': resent otp
+UNIQUE constraint failed: hrms_otp_auth.user_id: resent otp
+UNIQUE constraint failed: hrms_otp_auth.user_id: resent otp
+UNIQUE constraint failed: hrms_otp_auth.user_id: resent otp
+UNIQUE constraint failed: hrms_otp_auth.user_id: resent otp
+UNIQUE constraint failed: hrms_otp_auth.user_id: resent otp
+UNIQUE constraint failed: hrms_otp_auth.user_id: resent otp
+UNIQUE constraint failed: hrms_otp_auth.user_id: resent otp
+UNIQUE constraint failed: hrms_otp_auth.user_id: resent otp
+UNIQUE constraint failed: hrms_otp_auth.user_id: resent otp
+UNIQUE constraint failed: hrms_otp_auth.user_id: resent otp
